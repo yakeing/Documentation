@@ -13,7 +13,7 @@ install:
   - sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-6 90
 
 script: 
-  - g++ main.cpp -DNDEBUG -O2 -pg -std=c++17 -o travis_gcc_cpp17_gprof
+  - g++ scr/main.cpp -DNDEBUG -O2 -pg -std=c++17 -o travis_gcc_cpp17_gprof
   - ./travis_gcc_cpp17_gprof 
   # produce the gprof log
   - gprof ./travis_gcc_cpp17_gprof  > gprof.log
