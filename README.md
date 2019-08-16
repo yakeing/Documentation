@@ -5,15 +5,15 @@ HTML compiler
 
 ### Travis CI
 
-[![Travis-ci](https://api.travis-ci.org/yakeing/cpp_HtmlCompiler.svg)](https://travis-ci.org/yakeing/HtmlCompiler)
+[![Travis-ci](https://api.travis-ci.org/yakeing/cpp_HtmlCompiler.svg)](https://travis-ci.org/yakeing/cpp_HtmlCompiler)
 
 ### Github
 
-[![Downloads](https://img.shields.io/github/downloads/yakeing/HtmlCompiler/total.svg)](https://github.com/yakeing/HtmlCompiler)
-[![Size](https://img.shields.io/github/size/yakeing/HtmlCompiler/src/HtmlCompiler.php.svg)](https://github.com/yakeing/HtmlCompiler/blob/master/src/HtmlCompiler.php)
-[![tag](https://img.shields.io/github/tag/yakeing/HtmlCompiler.svg)](https://github.com/yakeing/HtmlCompiler/releases)
-[![Language](https://img.shields.io/github/license/yakeing/HtmlCompiler.svg)](https://github.com/yakeing/HtmlCompiler/blob/master/LICENSE)
-[![Php](https://img.shields.io/github/languages/top/yakeing/HtmlCompiler.svg)](https://github.com/yakeing/HtmlCompiler)
+[![Downloads](https://img.shields.io/github/downloads/yakeing/cpp_HtmlCompiler/total.svg)](https://github.com/yakeing/cpp_HtmlCompiler)
+[![Size](https://img.shields.io/github/size/yakeing/cpp_HtmlCompiler/scr/main.cpp.svg)](https://github.com/yakeing/cpp_HtmlCompiler/blob/master/scr/main.cpp)
+[![tag](https://img.shields.io/github/tag/yakeing/cpp_HtmlCompiler.svg)](https://github.com/yakeing/cpp_HtmlCompiler/releases)
+[![Language](https://img.shields.io/github/license/yakeing/cpp_HtmlCompiler.svg)](https://github.com/yakeing/cpp_HtmlCompiler/blob/master/LICENSE)
+[![Php](https://img.shields.io/github/languages/top/yakeing/cpp_HtmlCompiler.svg)](https://github.com/yakeing/cpp_HtmlCompiler)
 
 
 ### init
