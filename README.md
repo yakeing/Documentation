@@ -10,7 +10,7 @@ HTML compiler
 ### Github
 
 [![Downloads](https://img.shields.io/github/downloads/yakeing/cpp_HtmlCompiler/total.svg)](https://github.com/yakeing/cpp_HtmlCompiler)
-[![Size](https://img.shields.io/github/size/yakeing/cpp_HtmlCompiler/src/main.cpp.svg)](https://github.com/yakeing/cpp_HtmlCompiler/blob/master/src/main.cpp)
+[![code-size](https://img.shields.io/github/languages/code-size/yakeing/cpp_HtmlCompiler)](https://github.com/yakeing/cpp_HtmlCompiler/blob/master/src)
 [![tag](https://img.shields.io/github/tag/yakeing/cpp_HtmlCompiler.svg)](https://github.com/yakeing/cpp_HtmlCompiler/releases)
 [![Language](https://img.shields.io/github/license/yakeing/cpp_HtmlCompiler.svg)](https://github.com/yakeing/cpp_HtmlCompiler/blob/master/LICENSE)
 [![Php](https://img.shields.io/github/languages/top/yakeing/cpp_HtmlCompiler.svg)](https://github.com/yakeing/cpp_HtmlCompiler)
