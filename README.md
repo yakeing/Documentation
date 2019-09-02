@@ -27,7 +27,7 @@ HTML compiler
 
 Donate
 ---
-Your donation makes CODE better.
+If you've got value from any of the content which I have created, then I would very much appreciate your support by payment donate.
 
  [Bitcoin](https://btc.com/1FYbZECgs3V3zRx6P7yAu2nCDXP2DHpwt8)
 
