@@ -13,7 +13,7 @@ HTML compiler
 [![code-size](https://img.shields.io/github/languages/code-size/yakeing/cpp_HtmlCompiler)](https://github.com/yakeing/cpp_HtmlCompiler/blob/master/src)
 [![tag](https://img.shields.io/github/tag/yakeing/cpp_HtmlCompiler.svg)](https://github.com/yakeing/cpp_HtmlCompiler/releases)
 [![Language](https://oauth.applinzi.com/Label/license/MPL-2.0/FE7D37.svg)](https://github.com/yakeing/cpp_HtmlCompiler/blob/master/LICENSE)
-[![cpp](https://oauth.applinzi.com/Label/cpp/100.0%25/007EC6.svg)](https://github.com/yakeing/cpp_HtmlCompiler)
+[![cpp](https://oauth.applinzi.com/Label/cpp/100.0%25/f34b7d.svg)](https://github.com/yakeing/cpp_HtmlCompiler)
 
 
 ### init
