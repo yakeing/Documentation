@@ -11,9 +11,9 @@ HTML compiler
 
 [![Downloads](https://img.shields.io/github/downloads/yakeing/cpp_HtmlCompiler/total.svg)](https://github.com/yakeing/cpp_HtmlCompiler)
 [![code-size](https://img.shields.io/github/languages/code-size/yakeing/cpp_HtmlCompiler)](https://github.com/yakeing/cpp_HtmlCompiler/blob/master/src)
-[![tag](https://img.shields.io/github/tag/yakeing/cpp_HtmlCompiler.svg)](https://github.com/yakeing/cpp_HtmlCompiler/releases)
-[![Language](https://oauth.applinzi.com/Label/license/MPL-2.0/FE7D37.svg)](https://github.com/yakeing/cpp_HtmlCompiler/blob/master/LICENSE)
-[![cpp](https://oauth.applinzi.com/Label/cpp/100.0%25/f34b7d.svg)](https://github.com/yakeing/cpp_HtmlCompiler)
+[![tag](https://oauth.applinzi.com/Label/tag/v1.0.0/28a745.svg)](https://github.com/yakeing/php_template/releases)
+[![license](https://oauth.applinzi.com/Label/license/MPL-2.0/FE7D37.svg)](https://github.com/yakeing/php_template/blob/master/LICENSE)
+[![languages](https://oauth.applinzi.com/Label/languages/cpp/f34b7d.svg)](https://github.com/yakeing/php_template/search?l=php)
 
 
 ### init
