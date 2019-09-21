@@ -22,26 +22,11 @@ HTML compiler
 
 HTML compiler
 
-
-
-
-Donate
+[Sponsor](https://yakeing.tk/Sponsor/)
 ---
 If you've got value from any of the content which I have created, then I would very much appreciate your support by payment donate.
 
- [Bitcoin](https://btc.com/1FYbZECgs3V3zRx6P7yAu2nCDXP2DHpwt8)
-
-1FYbZECgs3V3zRx6P7yAu2nCDXP2DHpwt8
-
- ![Bitcoin](https://raw.githubusercontent.com/yakeing/Content/master/Donate/Bitcoin.png)
-
- WeChat
-
- ![WeChat](https://raw.githubusercontent.com/yakeing/Content/master/Donate/WeChat.png)
-
- Alipay
-
- ![Alipay](https://raw.githubusercontent.com/yakeing/Content/master/Donate/Alipay.png)
+[![Sponsor](https://oauth.applinzi.com/State/heart/Sponsor/EA4AAA.svg)](https://yakeing.tk/Sponsor/)
 
 Author
 ---
