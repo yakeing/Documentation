@@ -5,7 +5,7 @@ HTML compiler
 
 ### Travis CI
 
-[![Travis-ci](https://api.travis-ci.org/yakeing/cpp_HtmlCompiler.svg)](https://travis-ci.org/yakeing/cpp_HtmlCompiler)
+[![Travis-ci](https://api.travis-ci.com/yakeing/cpp_HtmlCompiler.svg)](https://travis-ci.org/yakeing/cpp_HtmlCompiler)
 
 ### Github
 
