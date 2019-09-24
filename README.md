@@ -2,12 +2,11 @@
 HTML compiler
 
 
+### Travis CI badge
 
-### Travis CI
+[![Travis-ci](https://api.travis-ci.com/yakeing/cpp_HtmlCompiler.svg)](https://travis-ci.com/yakeing/cpp_HtmlCompiler)
 
-[![Travis-ci](https://api.travis-ci.com/yakeing/cpp_HtmlCompiler.svg)](https://travis-ci.org/yakeing/cpp_HtmlCompiler)
-
-### Github
+### Github badge
 
 [![Downloads](https://img.shields.io/github/downloads/yakeing/cpp_HtmlCompiler/total.svg)](https://github.com/yakeing/cpp_HtmlCompiler)
 [![code-size](https://img.shields.io/github/languages/code-size/yakeing/cpp_HtmlCompiler)](https://github.com/yakeing/cpp_HtmlCompiler/blob/master/src)
