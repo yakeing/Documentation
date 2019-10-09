@@ -8,16 +8,13 @@ HTML compiler
 
 ### Github badge
 
-[![Downloads](https://img.shields.io/github/downloads/yakeing/cpp_HtmlCompiler/total.svg)](https://github.com/yakeing/cpp_HtmlCompiler)
-[![code-size](https://img.shields.io/github/languages/code-size/yakeing/cpp_HtmlCompiler)](https://github.com/yakeing/cpp_HtmlCompiler/blob/master/src)
-[![tag](https://oauth.applinzi.com/Label/tag/v1.0.0/28a745.svg)](https://github.com/yakeing/php_template/releases)
-[![license](https://oauth.applinzi.com/Label/license/MPL-2.0/FE7D37.svg)](https://github.com/yakeing/php_template/blob/master/LICENSE)
-[![languages](https://oauth.applinzi.com/Label/languages/cpp/f34b7d.svg)](https://github.com/yakeing/php_template/search?l=php)
-
+[![Downloads](https://img.shields.io/github/downloads/yakeing/cpp_HtmlCompiler/total.svg)](../../)
+[![code-size](https://img.shields.io/github/languages/code-size/yakeing/cpp_HtmlCompiler)](../../)
+[![tag](https://oauth.applinzi.com/Label/tag/v1.0.0/28a745.svg)](../../releases)
+[![license](https://oauth.applinzi.com/Label/license/MPL-2.0/FE7D37.svg)](LICENSE)
+[![languages](https://oauth.applinzi.com/Label/languages/cpp/f34b7d.svg)](../../search?l=php)
 
 ### init
-
-
 
 HTML compiler
 
