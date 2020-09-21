@@ -4,7 +4,7 @@ HTML compiler
 
 ### Travis CI badge
 
-[![Travis-ci](https://api.travis-ci.com/yakeing/cpp_HtmlCompiler.svg)](https://travis-ci.com/yakeing/cpp_HtmlCompiler)
+[![Travis-ci](https://api.travis-ci.com/yakeing/cpp_HtmlCompiler.svg?branch=master)](https://travis-ci.com/yakeing/cpp_HtmlCompiler)
 
 ### Github badge
 
