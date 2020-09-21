@@ -12,7 +12,7 @@ HTML compiler
 [![code-size](https://img.shields.io/github/languages/code-size/yakeing/cpp_HtmlCompiler?color=b36d41&logo=github)](../../)
 [![tag](https://oauth.applinzi.com/Label/tag/v1.0.0/28a745.svg)](../../releases)
 [![license](https://oauth.applinzi.com/Label/license/MPL-2.0/FE7D37.svg)](LICENSE)
-[![languages](https://oauth.applinzi.com/Label/languages/cpp/f34b7d.svg)](../../search?l=php)
+[![languages](https://oauth.applinzi.com/Label/languages/cpp/f34b7d.svg)](../../search?l=cpp)
 
 ### init
 
