@@ -1,6 +1,6 @@
 # static content
 
-The storage here is all static files
+The storage here is all static files.
 
 Author
 ---
