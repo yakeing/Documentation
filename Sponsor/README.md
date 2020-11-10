@@ -7,17 +7,17 @@ If you've got value from any of the content which I have created, then I would v
 
  WeChat (微信赞助)
 
- [![WeChat](https://cdn.jsdelivr.net/gh/yakeing/Documentation@master/Sponsor/WeChat.png)](#Sponsor)
+ [![WeChat](https://cdn.jsdelivr.net/gh/yakeing/Documentation@main/Sponsor/WeChat.png)](#Sponsor)
 
  Alipay (支付宝赞助)
 
- [![Alipay](https://cdn.jsdelivr.net/gh/yakeing/Documentation@master/Sponsor/Alipay.png)](#Sponsor)
+ [![Alipay](https://cdn.jsdelivr.net/gh/yakeing/Documentation@main/Sponsor/Alipay.png)](#Sponsor)
 
  [Bitcoin](https://btc.com/1FYbZECgs3V3zRx6P7yAu2nCDXP2DHpwt8) (比特币赞助)
 
  1FYbZECgs3V3zRx6P7yAu2nCDXP2DHpwt8
 
- [![Bitcoin](https://cdn.jsdelivr.net/gh/yakeing/Documentation@master/Sponsor/Bitcoin.png)](#Sponsor)
+ [![Bitcoin](https://cdn.jsdelivr.net/gh/yakeing/Documentation@main/Sponsor/Bitcoin.png)](#Sponsor)
 
 Author
 ---
