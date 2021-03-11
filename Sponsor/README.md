@@ -2,7 +2,7 @@ Sponsor
 ---
 If you've got value from any of the content which I have created, then I would very much appreciate your support by payment donate.
 
-[![Sponsor](https://badging.now.sh/static/label/Sponsor/EA4AAA?icon=heart)](https://github.com/yakeing/Documentation/edit/master/Sponsor/README.md)
+[![Sponsor](https://badging.tk/static/label/Sponsor/EA4AAA?icon=heart)](https://github.com/yakeing/Documentation/edit/master/Sponsor/README.md)
 ---
 
  WeChat (微信赞助)
