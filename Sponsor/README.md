@@ -2,7 +2,7 @@ Sponsor
 ---
 If you've got value from any of the content which I have created, then I would very much appreciate your support by payment donate.
 
-[![Sponsor](https://badging.vercel.app/static/Sponsor/EA4AAA?icon=heart)](https://github.com/yakeing/Documentation/edit/master/Sponsor/README.md)
+[![Sponsor](https://4.vercel.app/static/Sponsor/EA4AAA?icon=heart)](#Sponsor)
 ---
 
  WeChat (微信赞助)
